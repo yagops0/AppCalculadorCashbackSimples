@@ -81,18 +81,18 @@
             android:textSize="16sp" />
 
         <Button
-            android:id="@+id/btnHome"
+            android:id="@+id/btnContinuar"
             android:layout_width="355dp"
             android:layout_height="wrap_content"
             android:layout_marginTop="25sp"
             android:backgroundTint="#25FFFFFF"
             android:paddingTop="15sp"
             android:paddingBottom="15sp"
-            android:text="Calcular"
+            android:text="Continuar"
             android:textSize="20sp" />
 
         <Button
-            android:id="@+id/btnVoltar1"
+            android:id="@+id/btnVoltar"
             android:layout_width="match_parent"
             android:layout_height="65dp"
             android:backgroundTint="#25FFFFFF"
